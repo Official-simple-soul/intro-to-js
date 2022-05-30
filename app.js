@@ -1,5 +1,5 @@
 
-// window.alert("Welcome to Zeus Page");
+window.alert("Welcome to Zeus Page");
 
 // Question 1
 let center =  document.getElementById("center")
