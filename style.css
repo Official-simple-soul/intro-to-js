@@ -61,19 +61,17 @@ body{
 
 button {
     padding: 17px 22px;
-    background-color: darkblue;
+    background-color: #152735;
     border: 3px solid white;
-    transition: all ease 2s;
     color: white;
     border-radius: 10px;
 }
 
 button:hover {
     background-color: transparent;
-    color: darkblue;
-    transform: scale(1.2);
-    border-top: 3px solid darkblue;
-    border-bottom: 3px solid darkblue;
+    color: #152735;
+    border-top: 3px solid #152735;
+    border-bottom: 3px solid #152735;
     cursor: pointer;
 }
 
